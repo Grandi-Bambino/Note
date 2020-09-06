@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "295468350682",
+    "firebase_url": "https://my-note-26e20.firebaseio.com",
+    "project_id": "my-note-26e20",
+    "storage_bucket": "my-note-26e20.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:295468350682:android:0b42d8a3c4a1e8a066f9e3",
+        "android_client_info": {
+          "package_name": "grandi.bambino.mynote"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "295468350682-73kqdha563l65rbke1dn0vef40udgi4m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "grandi.bambino.mynote",
+            "certificate_hash": "f73c31d86f2d2bddd8e156df85b1c888f221af81"
+          }
+        },
+        {
+          "client_id": "295468350682-ku1jsk57f0rlvr0aau989t0oo2t8umna.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD15KTbzesrpCnObKdX_s0NGBx3Evw0NUo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "295468350682-ku1jsk57f0rlvr0aau989t0oo2t8umna.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
