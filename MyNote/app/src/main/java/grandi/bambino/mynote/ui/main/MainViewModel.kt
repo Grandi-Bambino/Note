@@ -36,7 +36,6 @@ class MainViewModel(private val notesRepository: Repository) : BaseViewModel<Lis
         repositoryNotes.observeForever(notesObserver)
     }
 
-    @VisibleForTesting
     override public fun onCleared() {
         repositoryNotes.removeObserver(notesObserver)
         super.onCleared()
